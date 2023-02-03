@@ -9,8 +9,8 @@ This repository contains documents and circuit diagrams about the final project 
 
 ## Receiver Circuitry
 
-##Power Amplifier Circuitry
+## Power Amplifier Circuitry
 ![Class AB Power Amplifier](https://user-images.githubusercontent.com/64316648/216618899-ff46f8d4-091c-43e4-8da9-eaf15d730955.jpg)
 
-Peak Detector [AC-->DC] Circuitry
+## Peak Detector [AC-->DC] Circuitry
 ![Peak Detector Circuitry](https://user-images.githubusercontent.com/64316648/216618961-8d2e6e6f-c153-48ac-b640-9641af849b68.jpg)
