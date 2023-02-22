@@ -7,7 +7,9 @@ Optical wireless communication is a critical development in the invention of som
 
 This unit is used to eliminate the effect of varying distance between the microphone and the input audio source. By using this sub-system, we keep the output amplitude at a proper level over a wide range of input voltage levels. To achieve this, we constructed a circuit that is called Automatic Gain Controller, which is a closed circuit that uses a feedback loop to balance the output against varying input amplitude levels. This circuitry uses a shunt-shunt feedback loop, meaning that it mixes voltage and samples current.
 
-![AGC](https://user-images.githubusercontent.com/64316648/216618023-2f6ca1f9-f4f1-413c-85b9-234ee46c0f03.jpg)
+<div align="center">
+    <img width = 400 src="https://github.com/mehmetkurt20/OpticalWirelessCommunication/blob/master/schematics/led%20modulation%20circuit.png">
+</div>
 
 ## Transmitter / LED Modulation Circuitry
 
