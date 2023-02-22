@@ -2,7 +2,7 @@
 This repository contains documents and circuit diagrams about the final project of the EE313 Analog Electronics Laboratory course. You can find documents and LTSpice Simulations collected throughout the process. 
 
 <div align="center">
-    <img width = 600 src="https://github.com/mehmetkurt20/OpticalWirelessCommunication/blob/master/schematics/diagram.png">
+    <img width = 800 src="https://github.com/mehmetkurt20/OpticalWirelessCommunication/blob/master/schematics/diagramsch.png">
 </div>
 
 Optical wireless communication is a critical development in the invention of some crucial technologies which are widespread all around the world, such as the internet, mobile phones, etc. In this project, we will be setting up a complete optical wireless communication system, including the sound input transmitter, receiver, and output blocks. Our main aim in constructing this system is to investigate the theoretical background of electrical modulation and transmission of light, which forms the basis of fiber optics and internet technology. The construction process of this electrical system includes also the filters, amplifications, and automatic gain control systems required for the conservation of the waveform for the transmission.The explanations of the constructed sub-blocks are given below.
